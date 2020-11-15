@@ -1,6 +1,7 @@
 # APITestingProject
 
 API REST skeleton used for this project can be found on: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton
+
 The project consists of a collection of requests (different HTTP requests such as GET, POST, PATCH, DELETE)
 divided into categories: auth, city, profile, user and a series of test scripts for each category. Pre-request
 scripts are used to ensure that tests will be run in the correct environment, etc. with the help of different 
